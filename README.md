@@ -1,4 +1,4 @@
-![logo](https://github.com/Axshat0/Axshat0/blob/main/Pink%20Black%20White%20Red%20Photocentric%20Feminine%20Lifestyle%20Beauty%20Fashion%20YouTube%20Channel%20Art%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Akshat!</h1>
 <h3 align="center">“I'm The Deku Who Always Does His Best!”</h3>
 
