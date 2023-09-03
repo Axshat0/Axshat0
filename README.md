@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Akshat!</h1>
 <h3 align="center">“I'm The Deku Who Always Does His Best!”</h3>
 
+**`Digital Craftsman (Backend_Dev/Web_Dev/Creator of this world)`**
+
+As an independent backend developer, I'm delving into the frontend world to broaden my skill set. Committed to mastering web development from both ends
+
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axshat0&label=Profile%20views&color=0e75b6&style=flat" alt="axshat0" /> </p>
