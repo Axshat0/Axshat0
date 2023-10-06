@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akshat!</h1>
 <h3 align="center">“I'm The Deku Who Always Does His Best!”</h3>
 
-**`Digital Craftsman (Backend_Dev/Web_Dev/Creator of this world)`**
+**`Digital Craftsman (Creator of this world)`**
 
 As an independent backend developer, I'm delving into the frontend world to broaden my skill set. Committed to mastering web development from both ends
 
